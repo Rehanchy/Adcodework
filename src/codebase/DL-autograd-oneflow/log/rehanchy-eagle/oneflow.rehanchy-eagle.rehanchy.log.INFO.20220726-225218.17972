@@ -1,0 +1,6 @@
+Log file created at: 2022/07/26 22:52:18
+Running on machine: rehanchy-eagle
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220726 22:52:18.600880 17972 env_global_objects_scope.cpp:146] Using rpc backend: local
+I20220726 22:52:18.646227 17972 epoll_comm_network.cpp:63] CommNet:Epoll listening on 0.0.0.0:43263
